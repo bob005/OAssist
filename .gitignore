@@ -58,8 +58,8 @@ typings/
 .env
 
 .idea/
-mobile/mobile.iml
+/mobile/mobile.iml
 
-mobile/node_modules/
-mobile/platforms/
-mobile/plugins/
+/mobile/node_modules/
+/mobile/platforms/
+/mobile/plugins/
